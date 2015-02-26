@@ -1,0 +1,115 @@
+html {
+background:#F58CD5;
+font-size:100%;
+}
+
+
+body{
+font-family: 'Nunito', sans-serif;
+width:85%;
+height:100%;
+margin:0 auto;
+}
+
+
+#header {
+	width:100%;
+	height:300px;
+	margin: 0, auto;
+	padding-top:35px;
+	padding-bottom:75px;
+}
+
+img {
+width:550px;
+margin: 0, auto;
+padding-top:35px;
+padding-bottom:75px;
+float:left;
+}
+
+h1 {
+padding-left:650px;
+padding-top: 100px;	
+width:600px;
+height:200px;
+font-size:3em;
+}
+
+.intro {
+	clear:both;
+	width: 75%;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:15px;
+	margin-top:0px;
+}
+
+.intro p{
+	font-size: 1.2em;
+	text-align: justify;
+}
+
+.fields {
+	text-decoration: underline;
+	width:800px;
+	height:50px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:15px;
+	margin-top:15px;
+
+}
+
+
+ul {
+	display:inline;
+	list-style-type: none;
+	width:600px;
+}
+
+li {
+	display:inline;
+	font-size: .87em;
+	padding-left: 20px;
+	width: 100px;
+	height: 30px;
+	text-align: left;
+	font-color:black;
+	margin:0;
+}
+
+
+.tb1 {
+	display:inline;
+	border:1px solid blue;
+	padding-left: 20px;
+	width: 100px;
+	height: 30px;
+	margin: 0;
+
+
+}
+.tb2 {
+	display:inline;
+	border:1px solid blue;
+	padding-left: 20px;
+	width: 20px;
+	height: 30px;
+	margin: 0;
+
+
+}
+
+.submit{
+	clear:both;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:100px;
+	margin-top:50px;
+	width:250px;
+	border: 2px solid black;
+	text-align:center;
+}
+
